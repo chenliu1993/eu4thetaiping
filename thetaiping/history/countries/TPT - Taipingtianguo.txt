@@ -9,9 +9,9 @@ government_rank = 3
 	monarch = {
 		name = "Xiuquan"
 		dynasty = "Hong"
-		adm = 2
+		adm = 4
 		dip = 2
-		mil = 4
+		mil = 2
 	}
 }
 
