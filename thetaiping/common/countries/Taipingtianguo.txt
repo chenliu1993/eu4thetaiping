@@ -1,0 +1,53 @@
+#Country Name: Please see filename.
+graphical_culture = asiangfx
+color = {
+	167
+	115
+	218
+}
+
+historical_score = 320
+historical_idea_groups = {
+	tradition_ideas
+	offensive_ideas
+	trade_ideas
+	quantity_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	defensize_ideas
+}
+
+historical_units = {
+	chinese_longspear
+	eastern_bow
+	chinese_footsoldier
+	chinese_steppe
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	manchu_banner
+	han_banner
+	asian_musketeer
+	chinese_dragoon
+	reformed_asian_musketeer
+	reformed_asian_cavalry
+	reformed_manchu_rifle
+}
+
+monarch_names = {
+	"Hong Xiuquan #0" = 10
+	"Hong Taiguifu #0" = 10
+	"Hong RenXuan #0" = 10
+}
+
+leader_names = {
+	Xiao
+	"Chaogui"
+	Yang
+	"Xiuqing"
+}
+
+army_names = {
+	"Army of $PROVINCE$"
+}

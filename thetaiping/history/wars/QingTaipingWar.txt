@@ -1,0 +1,36 @@
+name = "Oing Taiping War"
+war_goal = {
+	type = take_capital_throne
+	casus_belli = cb_claim_throne
+	province = 1821
+}
+
+1850.7.16 = {
+	add_attacker = QNG
+	add_defender = TPT
+}
+
+1853.7.16 = {
+	battle = {
+		name = "Battle of Nanjing"
+		location = 1821
+		attacker = {
+			commander = "Yang Xiuqing"
+			infantry = 30000
+			losses = 65			# percent
+			country = TPT
+		}
+		defender = {
+			commander = "Lu Jianying"
+			cavalry = 10000
+			losses = 100			# percent
+			country = QNG
+		}
+		result = yes
+	}
+}
+
+1854.1.1 = {
+	rem_attacker = QNG
+	rem_defender = TPT
+}
